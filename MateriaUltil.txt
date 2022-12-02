@@ -1,0 +1,15 @@
+Fuentes
+Roboto
+https://fonts.google.com/
+
+Ilustraciones
+https://undraw.co/search
+
+Iconos
+https://fontawesome.com/start
+crear cuenta
+
+Libreria de animaciones con el scroll
+https://michalsnik.github.io/aos/
+
+
